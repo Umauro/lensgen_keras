@@ -1,0 +1,12 @@
+astropy==3.2.3
+imbalanced-learn==0.6.2
+Keras==2.3.1
+matplotlib==3.0.3
+numpy==1.18.3
+pandas==0.24.2
+scikit-image==0.15.0
+scikit-learn==0.22.2.post1
+scipy==1.4.1
+seaborn==0.9.1
+tensorflow-gpu==2.1.0
+tqdm==4.46.0
